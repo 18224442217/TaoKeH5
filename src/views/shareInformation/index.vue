@@ -134,6 +134,9 @@ export default {
   },
   mounted(){
     this.getData()
+    if(this.$route.token){
+      cache.setToken(this.$route.token)
+    }
   },
   methods: {
     openApp(){
@@ -141,9 +144,16 @@ export default {
     },
     // 获取详情
     getData(){
+      // if(!this.$route.token||!this.$route.userId||!this.$route.to_uid){
+      //   return
+      // }
       const data={
+        token:'',
         userId:'10061',
         to_uid:'10062'
+        // token:this.$route.token,
+        // userId:this.$route.userId,
+        // to_uid:this.$route.to_uid
       }
       gteApi.shareMember(data).then((res)=>{
         if(res.code==1){

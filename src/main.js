@@ -1,5 +1,4 @@
 import Vue from 'vue'
-import axios from 'axios'
 import App from './App.vue'
 import router from './router'
 import ElementUI from 'element-ui'
@@ -16,8 +15,6 @@ Vue.use(Vant)
 Vue.use(Lazyload)
 
 Vue.config.productionTip = false
-
-axios.defaults.baseURL = '/api'
 
 new Vue({
   router,

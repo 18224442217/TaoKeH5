@@ -7,7 +7,7 @@ import Router from '../router/index'
 // const baseURL = '/'
 const service = axios.create({
   // process.env.VUE_APP_BASE_API
-  baseURL:process.env.VUE_APP_BASE_API,
+  baseURL:window.api_url,
   crossDomain:true,
   withCredentials: true, // 允许携带cookie
   timeout: 50000, // 超时时间
