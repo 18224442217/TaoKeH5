@@ -1,0 +1,494 @@
+.page {
+  z-index: 1;
+  position: relative;
+  width: 100vw;
+  height: 210.8vw;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  justify-content: center;
+  .group1 {
+    z-index: auto;
+    width: 100vw;
+    height: 210.67vw;
+    .box1 {
+      z-index: auto;
+      width: 96.8vw;
+      height: 4.8vw;
+      margin-left: 1.74vw;
+      .outer1 {
+        z-index: 22;
+        height: 1.47vw;
+        background: url(./img/SketchPng26e57b6cdf5aabede7640572b5b24ec3ec21d3f91a040ac74e9a6aaf1929180a.png)
+          100% no-repeat;
+        margin-top: 1.74vw;
+        width: 8.94vw;
+        .img1 {
+          z-index: 44;
+          width: 8.94vw;
+          height: 1.47vw;
+        }
+      }
+      .word1 {
+        z-index: 43;
+        width: 10.27vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        margin-left: 1.07vw;
+      }
+      .word2 {
+        z-index: 21;
+        width: 10.27vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        margin-left: -10.26vw;
+      }
+      .outer2 {
+        z-index: 17;
+        height: 2.4vw;
+        background: url(./img/SketchPng4989b9f7f4cbda323ac8d48eb267e111a43951fe8163f3f28f70d6a849cb2705.png)
+          100% no-repeat;
+        width: 3.47vw;
+        margin: 1.33vw 0 0 1.33vw;
+        .icon1 {
+          z-index: 39;
+          width: 3.47vw;
+          height: 2.4vw;
+        }
+      }
+      .word3 {
+        z-index: 37;
+        width: 12vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        text-align: center;
+        margin-left: 17.2vw;
+      }
+      .info1 {
+        z-index: 15;
+        width: 12vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        text-align: center;
+        margin-left: -12vw;
+      }
+      .info2 {
+        z-index: 36;
+        width: 8.8vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        text-align: right;
+        margin: 0.4vw 0 0 26.4vw;
+      }
+      .txt1 {
+        z-index: 14;
+        width: 8.8vw;
+        display: block;
+        overflow-wrap: break-word;
+        color: rgba(51, 51, 51, 1);
+        font-size: 3.2vw;
+        line-height: 4.4vw;
+        text-align: right;
+        margin: 0.4vw 0 0 -8.8vw;
+      }
+      .outer3 {
+        z-index: 9;
+        height: 2.54vw;
+        background: url(./img/SketchPng8d91813e094eaacf3853cf246ccd6499750854c474e597970ab611017e5dba89.png)
+          100% no-repeat;
+        width: 6.54vw;
+        margin: 1.33vw 0 0 0.8vw;
+        .label1 {
+          z-index: 31;
+          width: 6.54vw;
+          height: 2.54vw;
+        }
+      }
+    }
+    .label2 {
+      z-index: 50;
+      width: 5.87vw;
+      height: 5.87vw;
+      align-self: flex-start;
+      margin: 3.33vw 0 0 3.2vw;
+    }
+    .box2 {
+      z-index: 2;
+      height: 182.27vw;
+      background-color: rgba(70, 12, 202, 1);
+      margin-top: 14.4vw;
+      width: 100vw;
+      .outer4 {
+        z-index: auto;
+        width: 4.67vw;
+        height: 4.54vw;
+        margin: 31.86vw 0 0 58.8vw;
+        .section1 {
+          z-index: 169;
+          width: 4.67vw;
+          height: 4.54vw;
+          background: url(./img/SketchPng5aafdcf14f4b7ed5924da6d1b16b1a8565b8d9cc2c1261bfa001f233a402cc92.png) -0.14vw -0.14vw
+            no-repeat;
+          background-size: 4.93vw 4.8vw;
+        }
+      }
+      .outer5 {
+        z-index: auto;
+        width: 5.07vw;
+        height: 4.54vw;
+        margin: -9.06vw 0 0 74.26vw;
+        .main1 {
+          z-index: 175;
+          width: 5.07vw;
+          height: 4.54vw;
+          background: url(./img/SketchPngd48c97178d13110a95883f78e3de2d4b8c2c3fe587847c0745cdebca4d50a9b2.png) -0.14vw -0.14vw
+            no-repeat;
+          background-size: 5.33vw 4.8vw;
+        }
+      }
+    }
+  }
+  .group2 {
+    z-index: 159;
+    height: 17.07vw;
+    background-color: rgba(57, 57, 57, 1);
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 17.07vw;
+    .bd1 {
+      z-index: auto;
+      width: 93.47vw;
+      height: 10.14vw;
+      .group3 {
+        z-index: 164;
+        position: relative;
+        width: 10.14vw;
+        height: 10.14vw;
+        border-radius: 12px;
+        overflow: hidden;
+        background: url(./img/SketchPng83a54d1229abaf1943e3dc59467cb3312948155e150646817d8fc997e10eb982.png)
+          100% no-repeat;
+        .pic1 {
+          z-index: 165;
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 10.14vw;
+          height: 10.14vw;
+        }
+      }
+      .group4 {
+        z-index: auto;
+        width: 22vw;
+        height: 9.87vw;
+        margin: 0.13vw 0 0 2.13vw;
+        .word4 {
+          z-index: 167;
+          width: 7.47vw;
+          display: block;
+          overflow-wrap: break-word;
+          color: rgba(255, 255, 255, 1);
+          font-size: 3.73vw;
+          font-family: PingFangSC-Medium;
+          line-height: 5.34vw;
+          text-align: left;
+          align-self: flex-start;
+        }
+        .info3 {
+          z-index: 168;
+          width: 22vw;
+          display: block;
+          overflow-wrap: break-word;
+          color: rgba(255, 255, 255, 1);
+          font-size: 2.93vw;
+          line-height: 4vw;
+          text-align: left;
+          margin-top: 0.54vw;
+        }
+      }
+      .group5 {
+        z-index: 161;
+        height: 7.74vw;
+        border-radius: 12px;
+        background-color: rgba(255, 255, 255, 1);
+        width: 18.67vw;
+        justify-content: center;
+        align-items: center;
+        margin: 1.2vw 0 0 40.53vw;
+        .info4 {
+          z-index: 162;
+          width: 11.74vw;
+          display: block;
+          overflow-wrap: break-word;
+          color: rgba(0, 0, 0, 1);
+          font-size: 2.93vw;
+          font-family: PingFangSC-Medium;
+          line-height: 4vw;
+          text-align: left;
+        }
+      }
+    }
+  }
+  .group6 {
+    z-index: 55;
+    height: 22.54vw;
+    background: url(./img/SketchPngbbaaf8d17bce81e4f17d87364a12bea0933672b59813a3becdbe2009966abcd1.png) -0.27vw -0.14vw
+      no-repeat;
+    background-size: 87.06vw 22.8vw;
+    width: 86.8vw;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 26.14vw;
+    position: absolute;
+    left: -4.66vw;
+    top: 26.67vw;
+    .bd2 {
+      z-index: 63;
+      width: 13.74vw;
+      height: 6.54vw;
+      background: url(./img/SketchPng2c349103a1ccd25b095c611527ed896499d5c8e4ad165450bcb46b48ff40f2e6.png)
+        100% no-repeat;
+    }
+  }
+  .group7 {
+    z-index: 124;
+    position: absolute;
+    left: 60.14vw;
+    top: 23.6vw;
+    width: 33.47vw;
+    height: 28.94vw;
+    background: url(./img/SketchPngc4d096e466b92fb9f5695d78fe5759092bdc5ec0ad3ac091d0841b26dac140ab.png) -0.27vw -0.14vw
+      no-repeat;
+    background-size: 33.73vw 29.2vw;
+  }
+  .group8 {
+    z-index: 5;
+    position: absolute;
+    left: 67.47vw;
+    top: 28.67vw;
+    width: 32.94vw;
+    height: 18.8vw;
+    background: url(./img/SketchPngee85188fed60cb37d73cdb9ffaae2a0cd50ee6471bac2cb2c613a3423c0985a6.png) -0.14vw -0.14vw
+      no-repeat;
+    background-size: 32.66vw 19.06vw;
+  }
+  .pic2 {
+    z-index: 86;
+    position: absolute;
+    left: 9.07vw;
+    top: 55.87vw;
+    width: 34.54vw;
+    height: 33.74vw;
+  }
+  .group9 {
+    z-index: 3;
+    position: absolute;
+    left: 89.6vw;
+    top: 83.2vw;
+    width: 21.6vw;
+    height: 19.6vw;
+    background: url(./img/SketchPng08ae42afad79897b6e30d0b167b430eb7648060feddfd749e98bb2144d8f1461.png) -0.14vw -0.14vw
+      no-repeat;
+    background-size: 10.53vw 19.86vw;
+  }
+  .group10 {
+    z-index: 4;
+    height: 132vw;
+    border-radius: 37px;
+    background-color: rgba(95, 32, 240, 1);
+    width: 93.6vw;
+    justify-content: flex-end;
+    padding-bottom: 6.67vw;
+    align-items: center;
+    position: absolute;
+    left: 3.47vw;
+    top: 73.47vw;
+    .box3 {
+      z-index: 65;
+      height: 100vw;
+      border-radius: 18px;
+      background-color: rgba(255, 255, 255, 1);
+      box-shadow: 3px 3px 17px 0px rgba(39, 0, 127, 1);
+      width: 79.2vw;
+      justify-content: flex-end;
+      padding-bottom: 11.07vw;
+      align-items: center;
+      .main2 {
+        z-index: auto;
+        width: 57.07vw;
+        height: 65.2vw;
+        .word5 {
+          z-index: 79;
+          width: 57.07vw;
+          display: block;
+          overflow-wrap: break-word;
+          color: rgba(51, 51, 51, 1);
+          font-size: 5.33vw;
+          font-family: PingFangSC-Semibold;
+          line-height: 7.47vw;
+          text-align: left;
+        }
+        .outer6 {
+          z-index: auto;
+          width: 36.54vw;
+          height: 6.67vw;
+          justify-content: space-between;
+          margin: 2.66vw 0 0 10.13vw;
+          .box4 {
+            z-index: 71;
+            height: 6.67vw;
+            border-radius: 6px;
+            background-color: rgba(255, 220, 4, 1);
+            width: 16.94vw;
+            justify-content: center;
+            align-items: center;
+            .word6 {
+              z-index: 72;
+              width: 6.94vw;
+              display: block;
+              overflow-wrap: break-word;
+              color: rgba(51, 51, 51, 1);
+              font-size: 3.46vw;
+              font-family: PingFangSC-Medium;
+              line-height: 4.94vw;
+              text-align: left;
+            }
+          }
+          .box5 {
+            z-index: 74;
+            height: 6.67vw;
+            border-radius: 6px;
+            background-color: rgba(255, 220, 4, 1);
+            width: 16.94vw;
+            justify-content: center;
+            align-items: center;
+            .info5 {
+              z-index: 75;
+              width: 10.4vw;
+              display: block;
+              overflow-wrap: break-word;
+              color: rgba(51, 51, 51, 1);
+              font-size: 3.46vw;
+              font-family: PingFangSC-Medium;
+              line-height: 4.94vw;
+              text-align: left;
+            }
+          }
+        }
+        .outer7 {
+          z-index: 66;
+          width: 33.6vw;
+          height: 5.34vw;
+          overflow-wrap: break-word;
+          text-align: center;
+          align-self: center;
+          margin-top: 4.4vw;
+          font-size: 0;
+          .txt2 {
+            font-size: 3.73vw;
+            color: rgba(102, 102, 102, 1);
+            line-height: 5.34vw;
+          }
+          .word7 {
+            font-size: 3.73vw;
+            font-family: PingFangSC-Medium;
+            color: rgba(51, 51, 51, 1);
+            line-height: 5.34vw;
+          }
+        }
+        .outer8 {
+          z-index: 67;
+          width: 50.27vw;
+          height: 5.34vw;
+          overflow-wrap: break-word;
+          text-align: center;
+          align-self: center;
+          margin-top: 1.2vw;
+          font-size: 0;
+          .word8 {
+            font-size: 3.73vw;
+            color: rgba(102, 102, 102, 1);
+            line-height: 5.34vw;
+          }
+          .info6 {
+            font-size: 3.73vw;
+            font-family: PingFangSC-Medium;
+            color: rgba(51, 51, 51, 1);
+            line-height: 5.34vw;
+          }
+        }
+        .outer9 {
+          z-index: 68;
+          width: 29.2vw;
+          height: 5.34vw;
+          overflow-wrap: break-word;
+          text-align: left;
+          align-self: center;
+          margin-top: 1.07vw;
+          font-size: 0;
+          .info7 {
+            font-size: 3.73vw;
+            color: rgba(102, 102, 102, 1);
+            line-height: 5.34vw;
+          }
+          .word9 {
+            font-size: 3.73vw;
+            font-family: PingFangSC-Medium;
+            color: rgba(51, 51, 51, 1);
+            line-height: 5.34vw;
+          }
+        }
+        .outer10 {
+          z-index: 77;
+          height: 11.74vw;
+          border-radius: 44px;
+          background-color: rgba(255, 220, 4, 1);
+          align-self: center;
+          margin-top: 6.54vw;
+          width: 28.4vw;
+          justify-content: center;
+          align-items: center;
+          .word10 {
+            z-index: 78;
+            width: 17.87vw;
+            display: block;
+            overflow-wrap: break-word;
+            color: rgba(0, 0, 0, 1);
+            font-size: 4.4vw;
+            font-family: PingFangSC-Medium;
+            line-height: 6.14vw;
+            text-align: center;
+          }
+        }
+      }
+    }
+    .box6 {
+      z-index: 80;
+      position: absolute;
+      left: 24.67vw;
+      top: 9.74vw;
+      width: 43.07vw;
+      height: 42.94vw;
+      background: url(./img/SketchPng881fd7619c31a24ee876ad58fc556472bba9fa95e56524312b28240206a15e3b.png)
+        0vw 0vw no-repeat;
+      background-size: 43.2vw 42.93vw;
+    }
+  }
+}

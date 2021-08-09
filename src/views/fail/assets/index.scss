@@ -1,0 +1,23 @@
+.page {
+    z-index: 1;
+    position: relative;
+    width: 100vw;
+    // height: 1585px;
+    // background-color: rgba(95, 32, 240, 1);
+    overflow: hidden !important;
+    justify-content: flex-end;
+    padding-bottom: 0;
+    .fail-box{
+        margin: 445px auto 0;
+        img{
+            width: 374px;
+        }
+        p{
+            font-size: 28px;
+            color: #999999;
+            padding: 30x 0;
+            text-align: center;
+        }
+    }
+  }
+  

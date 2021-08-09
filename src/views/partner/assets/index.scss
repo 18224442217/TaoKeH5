@@ -1,0 +1,132 @@
+
+/deep/.van-picker__toolbar{
+    padding: 20px 0;
+    height: auto;
+}
+/deep/.el-input__inner{
+    border: 0;
+    text-align: right;
+    background-color: rgba(0,0,0,0);
+    padding: 0;
+}
+/deep/.van-popup{
+   border-radius: 20px;
+}
+.successPopup{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    .close{
+        width: 64px;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        padding: 10px;
+    }
+    .Tips-one{
+        width: 200px;
+        display: inline-block;
+        margin: auto;
+        padding:95px 0 44px 0;
+    }
+    p{
+     text-align: center;
+     font-size: 40px;
+     color: #333;
+     padding: 0 0 129px 0;
+     font-weight: bold;
+    }
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 50px 26px 100px 26px;
+    .footer-one{
+        text-align: center;
+        font-size: 32px;
+        color: #333;
+        background-color: #FFDC04;
+        border-radius: 10px;
+        padding: 22px 0;
+    }
+    p{
+        color: #666;
+        font-size: 22px;
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+}
+.joinIn-box{
+    padding: 50px 0;
+    .joinIn{
+        display: flex;
+        justify-content: space-between;
+        background-color: #F4F4F4;
+        padding: 26px 32px;
+        border-radius: 10px;
+        font-size: 26px;
+        margin-bottom: 20px;
+        position: relative;
+        .joinIn-right{
+            flex-grow: 1;
+            text-align: right;
+            span{
+                flex-grow: 1;
+            }
+        }
+        .sendOut{
+            position: absolute;
+            display: inline-block;
+            width: 160px;
+            padding: 15px 0;
+            background-color: #FFDC04;
+            border-radius: 7px;
+            text-align: center;
+            font-size: 24px;
+            color: #333;
+            top: 12px;
+            right: 30px;           
+        }
+        .sendOut.time{
+            background-color: rgba(255,220,4,.5);
+            color: #333;
+        }
+        .joinIn-left{
+            flex-shrink: 0;
+            margin-right: 10px;
+        }
+        .Selected{
+            color: black;
+        }
+        .Unselected{
+            color: #C0C4CC;
+        }
+    }
+}
+.joinInPage{
+    padding: 0 26px;
+}
+.introduce{
+    position: relative;
+}
+.introduce-one{
+    width: 100%;
+    display: block;
+}
+.introduce-two a{
+    display: inline-block;
+    margin-bottom: 50px;
+}
+.introduce-two img{
+    width: 356px;
+}
+.introduce-two{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}

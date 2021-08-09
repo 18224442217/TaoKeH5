@@ -1,0 +1,40 @@
+.head-box {
+  z-index: 99;
+  position: fixed;
+  height: 128px;
+  padding: 0 3%;
+  left: 0;
+  right: 0;
+  background-color: #393939;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .head-left{
+    display: flex;
+    flex-direction: row;
+    .pic1{
+      width: 76px;
+      margin-right: 16px;
+    }
+    .text{
+      display: flex;
+      flex-direction: column;
+      .word4{
+        font-size: 28px;
+        color: #fff;
+      }
+      .info3{
+        font-size: 22px;
+        color: #fff;
+      }
+    }
+  }
+  .head-right{
+    background-color: #fff;
+    border-radius: 12px;
+    line-height: 62px;
+    font-size: 22px;
+    padding: 0 22px;
+  }
+}
